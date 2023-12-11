@@ -1,0 +1,3 @@
+D:/I/github/a1-SzilagyiBotond-1/cmake-build-debug/CMakeFiles/a1_SzilagyiBotond_1.dir
+D:/I/github/a1-SzilagyiBotond-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/I/github/a1-SzilagyiBotond-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
