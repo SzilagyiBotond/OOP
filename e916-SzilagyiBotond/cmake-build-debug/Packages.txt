@@ -1,0 +1,8 @@
+Sam;sesame|1;0|0;0
+Sammyee;stree|1;0|0;0
+Sammy;sesame|1;0|0;0
+Alex;roxfort|2;6|6;0
+Marius;roxfort|4;1|1;1
+Marcoco;stree|1;1|1;1
+Mario;sesame|1;1|1;1
+Ada;abc|1;-1|-1;0

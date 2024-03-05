@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CompanyWindow</class>
+ <widget class="QWidget" name="CompanyWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>540</width>
+    <height>577</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>CompanyWindow</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QListWidget" name="packagesList"/>
+   </item>
+   <item>
+    <widget class="QLineEdit" name="recipientLineEdit"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLineEdit" name="streetLineEdit"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QLineEdit" name="numberLineEdit"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_4">
+     <item>
+      <widget class="QLineEdit" name="locationxLineEdit"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_5">
+     <item>
+      <widget class="QLineEdit" name="locationyLineEdit"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QPushButton" name="addButton">
+     <property name="text">
+      <string>Add</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

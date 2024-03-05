@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/a89_SzilagyiBotond.dir/CSVEventList.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/CSVEventList.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Event.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Event.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/EventList.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/EventList.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/EventValidator.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/EventValidator.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/GUI.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/GUI.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/HTMLEventList.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/HTMLEventList.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Repository.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Repository.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/RepositoryExceptions.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/RepositoryExceptions.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Service.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Service.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Ui.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Ui.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Utils.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/Utils.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/a89_SzilagyiBotond_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/a89_SzilagyiBotond_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond.dir/main.cpp.obj"
+  "CMakeFiles/a89_SzilagyiBotond.dir/main.cpp.obj.d"
+  "CMakeFiles/a89_SzilagyiBotond_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/a89_SzilagyiBotond_autogen.dir/ParseCache.txt"
+  "a89_SzilagyiBotond_autogen"
+  "a89_SzilagyiBotond.exe"
+  "a89_SzilagyiBotond.exe.manifest"
+  "a89_SzilagyiBotond.pdb"
+  "liba89_SzilagyiBotond.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/a89_SzilagyiBotond.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

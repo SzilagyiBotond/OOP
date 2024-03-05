@@ -1,0 +1,4 @@
+D:/I/github/e916-SzilagyiBotond/cmake-build-debug/CMakeFiles/e916_SzilagyiBotond.dir
+D:/I/github/e916-SzilagyiBotond/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/I/github/e916-SzilagyiBotond/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/I/github/e916-SzilagyiBotond/cmake-build-debug/CMakeFiles/e916_SzilagyiBotond_autogen.dir

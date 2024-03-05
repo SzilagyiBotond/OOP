@@ -1,0 +1,4 @@
+D:/I/github/a89-SzilagyiBotond/cmake-build-debug/CMakeFiles/a89_SzilagyiBotond.dir
+D:/I/github/a89-SzilagyiBotond/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/I/github/a89-SzilagyiBotond/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/I/github/a89-SzilagyiBotond/cmake-build-debug/CMakeFiles/a89_SzilagyiBotond_autogen.dir
